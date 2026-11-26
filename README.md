@@ -18,15 +18,6 @@
 - **Areas of Interest:** Artificial Intelligence, Machine Learning, Data Science
 - **Tools:** Git, GitHub, AWS
 
-### 📌 Projects
-
-**1. Smart Crop Advisory System**
-- AI/ML-based crop recommendation system.
-- Uses soil nutrients, pH, temperature, humidity, and rainfall.
-- Designed to support small and marginal farmers.
-
-**2. Boolean Function Minimization**
-- A project focused on simplifying Boolean functions.
 
 ### 📚 Currently Learning
 - Machine Learning
