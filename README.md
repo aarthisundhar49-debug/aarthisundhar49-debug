@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Aarthi Sundhar!
 
-<!--
-**aarthisundhar49-debug/aarthisundhar49-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence and Data Science Student at Saveetha Engineering College.
 
-Here are some ideas to get you started:
+💻 Passionate about programming, technology, and building innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Currently pursuing Artificial Intelligence and Data Science.
+- 🌱 Learning Python, C, Java, and Data Science.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 💡 Enjoy solving problems and developing real-world projects.
+- ☁️ Completed an AWS Cloud Online Course.
+
+### 🛠️ Technical Skills
+
+- **Programming Languages:** C, Python, Java
+- **Database:** SQL
+- **Areas of Interest:** Artificial Intelligence, Machine Learning, Data Science
+- **Tools:** Git, GitHub, AWS
+
+### 📌 Projects
+
+**1. Smart Crop Advisory System**
+- AI/ML-based crop recommendation system.
+- Uses soil nutrients, pH, temperature, humidity, and rainfall.
+- Designed to support small and marginal farmers.
+
+**2. Boolean Function Minimization**
+- A project focused on simplifying Boolean functions.
+
+### 📚 Currently Learning
+- Machine Learning
+- Java Programming
+- Web Development
+
+### 🎯 My Goals
+- Improve my programming skills.
+- Build innovative real-world projects.
+- Explore new technologies.
+- Grow as a technology professional.
+
+### 📫 Connect With Me
+
+- GitHub: [My GitHub Profile](https://github.com/aarthisundhar49-debug)
+
+---
+
+⭐ *Learning every day, building new ideas, and growing through technology!*
